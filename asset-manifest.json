@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stealth-guard/static/css/main.073c9b0a.css",
+    "main.js": "/stealth-guard/static/js/main.f8763d7a.js",
+    "static/media/circleBase.png": "/stealth-guard/static/media/circleBase.502a7e6a557717c96f36.png",
+    "static/media/background.png": "/stealth-guard/static/media/background.36b349545885cb5b0356.png",
+    "static/media/groupDisplayCircle.png": "/stealth-guard/static/media/groupDisplayCircle.28394cadfeb5c9b033f6.png",
+    "static/media/congoImg.png": "/stealth-guard/static/media/congoImg.0714434e2cf92f26fc0c.png",
+    "static/media/spinBase.png": "/stealth-guard/static/media/spinBase.341d7d259f2fc6677ee2.png",
+    "static/media/numberBox.png": "/stealth-guard/static/media/numberBox.8ffbbe6764ba87873981.png",
+    "static/media/SpinButton.png": "/stealth-guard/static/media/SpinButton.598b2cd74465133e5fae.png",
+    "index.html": "/stealth-guard/index.html",
+    "main.073c9b0a.css.map": "/stealth-guard/static/css/main.073c9b0a.css.map",
+    "main.f8763d7a.js.map": "/stealth-guard/static/js/main.f8763d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f8763d7a.js"
+  ]
+}
